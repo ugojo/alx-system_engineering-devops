@@ -10,3 +10,4 @@ mirror_permissions
 directories_permissions
 12-directory_permissions
 change_group
+symbolic_link_permissions
