@@ -8,3 +8,4 @@ multiple_permissions
 9-John_Doe
 mirror_permissions
 directories_permissions
+12-directory_permissions
