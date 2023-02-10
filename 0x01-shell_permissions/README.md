@@ -6,3 +6,4 @@ creating a new empty file
 multiple_permissions
 007
 9-John_Doe
+mirror_permissions
