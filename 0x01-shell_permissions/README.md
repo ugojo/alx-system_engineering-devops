@@ -7,3 +7,4 @@ multiple_permissions
 007
 9-John_Doe
 mirror_permissions
+directories_permissions
